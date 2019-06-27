@@ -18,6 +18,6 @@
 <li><code>python ./cheater_defeater.py</code></li>
 </ul>
 <p><strong>Version :</strong>  Beta <strong>1</strong></p>
-<p><strong>Author  :</strong> Emre Selim</p>
+<p><strong>Author  :</strong> THYemre ~ Emre Selim</p>
 <p>Thanks.</p>
 <a href="https://twitter.com/emre_selim8/">Follow Me On Twitter</a>
