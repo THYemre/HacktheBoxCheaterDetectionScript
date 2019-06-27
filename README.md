@@ -1,6 +1,6 @@
 # HacktheBoxCheaterDetectionScript
 
-<p>Hackthe Box Cheater User Detection Script</p>
+<p>HacktheBox Cheater User Detection Script</p>
 <p><strong>Language :</strong> Python</p>
 <h2>Download</h2>
 <p><em>Open the Repository</em></p>
