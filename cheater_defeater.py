@@ -45,7 +45,3 @@ for i in range(36000,40000):
         print bcolors.FAIL + "[- POSSIBLE CHEATER DETECTED -] " + base_url + str(i) + bcolors.ENDC
     else:
         print bcolors.OKGREEN + "[+ USER IS OK +]" + base_url + str(i) + bcolors.ENDC
-
-#for font in lxml.html.fromstring(req_get.text).cssselect('h3'):
-#	plain_text = font.text
-#	hash = hashlib.md5(plain_text.encode("utf-8")).hexdigest()
